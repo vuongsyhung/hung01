@@ -1,0 +1,83 @@
+{
+  "configVersion": 1,
+  "timestamp": 1670470439226,
+  "index": "https://vuongsyhung.github.io/hung01/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://vuongsyhung.github.io/hung01/266.fc1b55d08dc2c43d.js",
+        "https://vuongsyhung.github.io/hung01/favicon.ico",
+        "https://vuongsyhung.github.io/hung01/index.html",
+        "https://vuongsyhung.github.io/hung01/main.1c60b08d0c396f1d.js",
+        "https://vuongsyhung.github.io/hung01/manifest.webmanifest",
+        "https://vuongsyhung.github.io/hung01/polyfills.059e667f25f748f8.js",
+        "https://vuongsyhung.github.io/hung01/runtime.e17636ca484f8bf3.js",
+        "https://vuongsyhung.github.io/hung01/styles.9c36b9530393e161.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://vuongsyhung.github.io/hung01/assets/icons/icon-128x128.png",
+        "https://vuongsyhung.github.io/hung01/assets/icons/icon-144x144.png",
+        "https://vuongsyhung.github.io/hung01/assets/icons/icon-152x152.png",
+        "https://vuongsyhung.github.io/hung01/assets/icons/icon-192x192.png",
+        "https://vuongsyhung.github.io/hung01/assets/icons/icon-384x384.png",
+        "https://vuongsyhung.github.io/hung01/assets/icons/icon-512x512.png",
+        "https://vuongsyhung.github.io/hung01/assets/icons/icon-72x72.png",
+        "https://vuongsyhung.github.io/hung01/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://vuongsyhung.github.io/hung01/266.fc1b55d08dc2c43d.js": "7c8079ab650657812922ac0f55ac04da3da3f133",
+    "https://vuongsyhung.github.io/hung01/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://vuongsyhung.github.io/hung01/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://vuongsyhung.github.io/hung01/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://vuongsyhung.github.io/hung01/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://vuongsyhung.github.io/hung01/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://vuongsyhung.github.io/hung01/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://vuongsyhung.github.io/hung01/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://vuongsyhung.github.io/hung01/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://vuongsyhung.github.io/hung01/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://vuongsyhung.github.io/hung01/index.html": "41016bc59981256a7288543ead74d45203ae8663",
+    "https://vuongsyhung.github.io/hung01/main.1c60b08d0c396f1d.js": "c53dc0a803c070b339f07dc34af27a2e50d3a72c",
+    "https://vuongsyhung.github.io/hung01/manifest.webmanifest": "265f53954f2661cb6fc99239cf213a2459d56ece",
+    "https://vuongsyhung.github.io/hung01/polyfills.059e667f25f748f8.js": "d88dc87037f2d20aa7aabef9f6f38ead39b31d07",
+    "https://vuongsyhung.github.io/hung01/runtime.e17636ca484f8bf3.js": "1aacfcb8e4b78492f729107b308bbd7e362b7b94",
+    "https://vuongsyhung.github.io/hung01/styles.9c36b9530393e161.css": "7071fe58f0cac912c635de7413c9eabf3446c98c"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
